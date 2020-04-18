@@ -1,6 +1,6 @@
 # NetConfigSDK-Android
 
-#### Swaiot开放平台下推送SDK库
+#### Swaiot开放平台下配网(SKY-LINK协议)SDK库
 
 ##### SDK下载地址
 
